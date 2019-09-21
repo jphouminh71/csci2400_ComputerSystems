@@ -1,0 +1,10 @@
+Bits , Byes, and Integers
+- bits are 0 and 1s, bytes are 8 bits.
+
+Everything is Bits
+- each bit is a 0 or 1
+- 0 mean low voltage and 1 means high voltage
+
+can count in binary
+  - Base 2 number representation
+    - 

